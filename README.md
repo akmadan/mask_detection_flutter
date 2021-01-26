@@ -1,4 +1,4 @@
-# diabetes_prediction
+# Mask Detection
 Preview of the Project
 
 ![](assets/1.png)
